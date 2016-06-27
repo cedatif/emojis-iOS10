@@ -83,6 +83,9 @@
 - Larme
 - Pleurer
 
+### 😪
+- Fatigué
+
 ### 😳 
 - Embarrassé
 
@@ -306,12 +309,3 @@
 
 ### ⭐️ 
 - Étoile 
-
-### 🎼
-- Partition
-
-### 🔐
-- Clé(s)
-
-### 🔑
-- Clés
